@@ -1,0 +1,9 @@
+{
+  "@@last_modified": "2020-06-07T14:43:30.662358",
+  "dashboardTitle": "Dashboard",
+  "@dashboardTitle": {
+    "description": "Title shown for the dashboard page",
+    "type": "text",
+    "placeholders": {}
+  }
+}
